@@ -1,0 +1,44 @@
+```{r}
+
+```
+
+```{r}
+
+```
+
+---
+title: "HANDS ON PROGRAMING WITH R act. in sec math17"
+author: "Dave Talaro"
+format: html
+editor: visual
+---
+
+## Chapter 1 The Very Basics
+
+```{r}
+3*8
+
+```
+
+```{r}
+18^24
+```
+
+```{r}
+a<-1
+a
+```
+
+```{r}
+a+1
+```
+
+## Creating a Die
+
+```{r}
+die <- 1:6
+```
+
+```{r}
+die/2
+```
